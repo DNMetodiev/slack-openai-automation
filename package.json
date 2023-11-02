@@ -19,6 +19,7 @@
   "homepage": "https://github.com/DNMetodiev/slack-openai-automation#readme",
   "dependencies": {
     "@slack/bolt": "^3.14.0",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "openai": "^4.14.2"
   }
 }
